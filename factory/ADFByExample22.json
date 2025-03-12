@@ -1,0 +1,9 @@
+{
+	"name": "ADFByExample22",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d7ed3d8-2e2f-48f5-bd3d-40f00d0c5db6",
+		"tenantId": "ecef6676-2aff-4516-83cb-eeaf4b4bc651"
+	}
+}
